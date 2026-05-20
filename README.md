@@ -39,9 +39,17 @@ Explorar si existe relación entre el tiempo dedicado a los videojuegos, el nive
 ## Preguntas de investigación
 
 1. ¿Más horas de gaming se asocian con peores notas?
-2. ¿Qué género de videojuego se asocia con mayor o menor rendimiento?
-3. ¿El nivel de adicción modera la relación entre gaming y notas?
-4. ¿Cuáles son los factores más correlacionados con las calificaciones?
+   <img width="698" height="489" alt="image" src="https://github.com/user-attachments/assets/bee1e013-60f8-4da5-8b94-79ff3d6b4f7d" />
+   
+3. ¿Qué género de videojuego se asocia con mayor o menor rendimiento?
+   <img width="776" height="490" alt="image" src="https://github.com/user-attachments/assets/9a45f2b8-4047-4dfa-baf0-83e80bb74540" />
+
+5. ¿El nivel de adicción modera la relación entre gaming y notas?
+   <img width="752" height="565" alt="image" src="https://github.com/user-attachments/assets/e438315a-a1e8-4a2e-a7ab-ba7ad213a757" />
+
+7. ¿Cuáles son los factores más correlacionados con las calificaciones?
+   <img width="647" height="540" alt="image" src="https://github.com/user-attachments/assets/0a01be02-5b7e-44f1-9d19-1e26c1b2967d" />
+
 
 ## Estructura del proyecto
 
